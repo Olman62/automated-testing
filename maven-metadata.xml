@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.route4me</groupId>
+  <artifactId>route4me-java-sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180302114151</lastUpdated>
+  </versioning>
+</metadata>
